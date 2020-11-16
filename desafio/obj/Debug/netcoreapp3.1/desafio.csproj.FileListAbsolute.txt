@@ -1,0 +1,13 @@
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.exe
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.deps.json
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.runtimeconfig.json
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.runtimeconfig.dev.json
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.dll
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\bin\Debug\netcoreapp3.1\desafio.pdb
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.csprojAssemblyReference.cache
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.AssemblyInfoInputs.cache
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.AssemblyInfo.cs
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.csproj.CoreCompileInputs.cache
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.dll
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.pdb
+C:\Users\winicius\Documents\beckend\console\exercicios\desafio\obj\Debug\netcoreapp3.1\desafio.genruntimeconfig.cache
